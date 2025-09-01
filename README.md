@@ -30,7 +30,7 @@ Development Tools:
 
 LIVE PROJECT:
 - View Full Analysis & Visualizations → https://medium.com/@ian.moore_83986/hp-filter-parameter-selection-evaluating-lambda-a78feb3d48ce
-- Deep dive into lambda parameter optimization, regularization theory, and practical implementation guidelines for financial modeling.
+- Comprehensive analysis with confidence interval breach rates, visual trend comparisons, and practical lambda selection guidelines for financial time series.
 
 CONTACT:
 
